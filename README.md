@@ -18,5 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0412-fizz-buzz) |
 | [2469-convert-the-temperature](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/2469-convert-the-temperature) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
