@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -13,10 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
@@ -39,8 +42,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0053-maximum-subarray) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
