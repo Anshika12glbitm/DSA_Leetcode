@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0283-move-zeroes) |
@@ -68,5 +69,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0283-move-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
