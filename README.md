@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0412-fizz-buzz) |
+| [0877-stone-game](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0877-stone-game) |
 | [2469-convert-the-temperature](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/2469-convert-the-temperature) |
 ## String
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0053-maximum-subarray) |
+| [0877-stone-game](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0877-stone-game) |
 ## Counting
 |  |
 | ------- |
@@ -100,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0011-container-with-most-water) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
