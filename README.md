@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0283-move-zeroes) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0013-roman-to-integer) |
+| [0204-count-primes](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0877-stone-game) |
 | [2469-convert-the-temperature](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/2469-convert-the-temperature) |
@@ -130,4 +132,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0056-merge-intervals) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
