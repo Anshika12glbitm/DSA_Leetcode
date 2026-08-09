@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0013-roman-to-integer) |
 | [0204-count-primes](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0877-stone-game) |
 | [2469-convert-the-temperature](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/2469-convert-the-temperature) |
 ## String
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0877-stone-game) |
 ## Counting
 |  |
@@ -154,4 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0204-count-primes) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
