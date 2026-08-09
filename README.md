@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Quicksort
 |  |
 | ------- |
