@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0013-roman-to-integer) |
+| [0125-valid-palindrome](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0412-fizz-buzz) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
