@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0877-stone-game) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1510-stone-game-iv](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/1510-stone-game-iv) |
 | [2469-convert-the-temperature](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/2469-convert-the-temperature) |
 ## String
@@ -212,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+## Linked List
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
