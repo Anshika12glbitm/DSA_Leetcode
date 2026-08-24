@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0204-count-primes) |
+| [0367-valid-perfect-square](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0877-stone-game) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0367-valid-perfect-square](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0704-binary-search) |
 ## Greedy
 |  |
