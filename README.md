@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0412-fizz-buzz) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
