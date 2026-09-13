@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0412-fizz-buzz) |
+| [0445-add-two-numbers-ii](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Floyd's Cycle Finding Algorithm
@@ -268,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0075-sort-colors) |
+## Stack
+|  |
+| ------- |
+| [0445-add-two-numbers-ii](https://github.com/Anshika12glbitm/DSA_Leetcode/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->
